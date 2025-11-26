@@ -1,0 +1,48 @@
+# Time Series Analysis
+statsmodels==0.14.0
+pmdarima==2.0.3
+prophet==1.1.4
+
+# Deep Learning
+tensorflow==2.13.0
+keras==2.13.1
+torch==2.0.1
+
+# Data Processing
+numpy==1.24.3
+pandas==2.0.3
+scipy==1.11.1
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Machine Learning
+scikit-learn==1.3.0
+
+# Utilities
+tqdm==4.65.0
+pyyaml==6.0.1
+python-dotenv==1.0.0
+
+# API Development
+fastapi==0.101.1
+uvicorn==0.23.2
+pydantic==2.1.1
+
+# Experiment Tracking
+mlflow==2.5.0
+wandb==0.15.5
+
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Notebook
+jupyter==1.0.0
+ipykernel==6.25.0
+
+# Additional Time Series Tools
+sktime==0.20.1
+tslearn==0.6.2
